@@ -19,11 +19,9 @@ public class Main {
 
 
 
-        if(Scanner input = rand){
+        if(input = rand){
         System.out.println("Correct");
     }else{
             System.out.println("Incorrect");}
-
-
     }
 }
